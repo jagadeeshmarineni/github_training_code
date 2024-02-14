@@ -13,3 +13,4 @@ EXPOSE 8080
 
 ENTRYPOINT ["/opt/tomcat/bin/catalina.sh","run"]
 
+
