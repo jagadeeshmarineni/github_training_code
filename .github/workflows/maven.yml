@@ -17,7 +17,7 @@ on:
 jobs:
   build:
 
-    runs-on: DESKTOP-5636MPU
+    runs-on: self-hosted
 
     steps:
     - uses: actions/checkout@v3
